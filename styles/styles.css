@@ -1,0 +1,209 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.right-scetion{
+    padding-left: 90px;
+    padding-right: 220px;
+    background-color: #FFFFFF;
+}
+
+/* Right section styles */
+
+.about-me-profession{
+    color: black;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 100px;
+}
+
+#personName{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 30px;
+}
+
+.main-section{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+}
+
+.about-me-section{
+    width: 400px;
+}
+
+.about-me-section p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.proj-section{
+    margin: 40px 0 0 0 ;
+}
+
+.block-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.proj-section ol{
+    padding-left: 19px;
+}
+
+ol li, .bracket{
+    font-weight: 700;
+    color: #000000;
+}
+
+.projects-item a{
+    color :rgba(89, 89, 89, 1);
+}
+
+.projects-item{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #595959;
+    margin-left: 10px;
+}
+
+.work-exp-section{
+    margin-top: 50px;
+}
+
+.work-exp-pos{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.work-exp-comp{
+    color: #FB6D3A;
+}
+
+.work-exp-period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.line{
+    color: #000000;
+}
+
+.work-exp-duties li{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.work-exp-duties{
+    padding-left: 18px;
+}
+
+.education-section{
+    margin-top: 40px;
+    margin-bottom: 110px;
+}
+
+.edu-sec-uni{ 
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.edu-sec-faculty{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+
+/*sidebar section*/
+
+.sidebar-section{
+    background-color: #1E2939;
+    width: 370px;
+}
+
+.sidebar-section img {
+    margin-top: 40px;
+}
+
+.sidebar-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+}
+.contacts-section, .tech-section, .softsk-section{
+    margin-left: 40px;
+}
+
+.contacts-sec{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.contacts-sec-val{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #3a4352;
+}
+
+.sidebar-list{
+    color: rgba(251, 109, 58, 1);
+    padding-left: 20px;
+}
+
+.tech-section ul span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.softsk-section ul span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF
+}
+
+
+
